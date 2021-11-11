@@ -9,6 +9,9 @@ If you want to use the app locally and modify it, install Streamlit
 https://docs.streamlit.io/library/get-started/installation#install-streamlit-on-windows 
 
 then run in local code editor
+
+The app should pop in your browser on a local port and then you can modify it as you wish. 
+
 ```
 streamlit run OwnArt.py
 ```
