@@ -10,7 +10,7 @@ https://docs.streamlit.io/library/get-started/installation#install-streamlit-on-
 
 then run in local code editor
 ```
-streamlit run <OwnArt>.py
+streamlit run OwnArt.py
 ```
 
 ## Machine learning component
