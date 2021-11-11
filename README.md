@@ -11,7 +11,7 @@ https://docs.streamlit.io/library/get-started/installation#install-streamlit-on-
 Then type in cmd / Terminal the below command. The app should pop in your browser on a local port and then you can modify it as you wish. 
 
 ```
-streamlit run OwnArt.py
+streamlit run StylizedPic.py
 ```
 
 ## Machine learning component
