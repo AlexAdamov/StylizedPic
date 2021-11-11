@@ -20,4 +20,4 @@ The app uses a pretrained Style Transfer Network implemented in Tensorflow. It p
 
 This is an implementation based on the following research paper. I recommend to check it out as it an easy and insightful read. 
 
-Golnaz Ghiasi, Honglak Lee, Manjunath Kudlur, Vincent Dumoulin, Jonathon Shlens. Exploring the structure of a real-time, arbitrary neural artistic stylization network. Proceedings of the British Machine Vision Conference (BMVC), 2017.
+Golnaz Ghiasi, Honglak Lee, Manjunath Kudlur, Vincent Dumoulin, Jonathon Shlens. Exploring the structure of a real-time, arbitrary neural artistic stylization network. Proceedings of the British Machine Vision Conference (BMVC), 2017. https://arxiv.org/abs/1705.06830
