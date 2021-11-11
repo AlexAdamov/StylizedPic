@@ -2,7 +2,7 @@
 
 This is an app which lets you take any picture and modify it in the style of a painting or art picture. 
 
-The app is hosted on Streamlit https://share.streamlit.io/alexadamov/stylizedpic/main/OwnArt.py
+The app is hosted on Streamlit https://share.streamlit.io/alexadamov/stylizedpic/main/StylizedPic.py
 
 ## Running locally
 If you want to use the app locally and modify it, first install Streamlit (Python library)
