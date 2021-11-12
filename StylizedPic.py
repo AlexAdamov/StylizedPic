@@ -80,7 +80,6 @@ if uploaded_content_pic is not None and (uploaded_style_pic is not None or choos
         return img
 
     # Load TF Hub model which will blend the content and art pictures into a desired stylized picture 
-    @st.cache(suppress_st_warning=True)
     hub_handle = 'https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2'
     hub_module = hub.load(hub_handle)
 
